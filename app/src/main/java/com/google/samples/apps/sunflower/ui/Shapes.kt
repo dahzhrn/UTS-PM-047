@@ -28,9 +28,9 @@ val Shapes = Shapes(
         bottomEnd = 0.dp
     ),
     medium = RoundedCornerShape(
-        topStart = 0.dp,
-        topEnd = 12.dp,
-        bottomStart = 12.dp,
-        bottomEnd = 0.dp
+        topStart = 32.dp, //Sebelumnya 0.dp
+        topEnd = 32.dp, //Sebelumnya 12.dp
+        bottomStart = 32.dp, //Sebelumnya 12.dp
+        bottomEnd = 32.dp //Sebelumnya 0.dp
     )
 )
